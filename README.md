@@ -94,8 +94,8 @@
 
 ## チーム活動履歴
 
-- [Developers Summit 2018 - 実況パワフルモブプログラミング - Rakuten Super English におけるモブプログラミングという働き方 -](https://event.shoeisha.jp/devsumi/20180215/session/1666/)
-- [ モブプロディスカッション](https://www.eventbrite.com/e/35561178442#)
+- [Developers Summit 2018 - 実況パワフルモブプログラミング - Rakuten Super English におけるモブプログラミングという働き方 -](https://event.shoeisha.jp/devsumi/20180215/session/1666/)
+- [モブプロディスカッション](https://www.eventbrite.com/e/35561178442#)
 - モブプログラミング現場体験会
 - モブプログラミングワークショップ・研修
 
@@ -110,7 +110,7 @@
 
 ## チーム経歴
 
-### 2016/07 〜 現在 : 楽天株式会社
+### 2016/07 〜 現在 : 楽天株式会社
 
 #### 2017/05 〜 現在 : 新規 HR Tech&Edu Tech サービス立ち上げ【マネージャー】
 
