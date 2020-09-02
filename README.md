@@ -6,6 +6,13 @@
 - [satoryu](https://satoryu.github.io/)
 - [TAKAKING22](https://takaking22.github.io/)
 
+## リンク
+
+- [銀の弾丸Blog](https://note.com/takaking22/m/mdc7a6bb0e2b9)
+- [銀の弾丸TV（Youtube）](https://www.youtube.com/channel/UC2WNGm9_cF2xUlBLXAaJOOQ)
+- [銀の弾丸ラジオ（Podcast）](https://anchor.fm/silver-bullet-club)
+- [Twitter](https://twitter.com/silverbulletclb)
+
 ## テクニカルスキル
 
 ### 言語/フレームワーク
