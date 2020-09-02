@@ -44,8 +44,8 @@
 
 ### クラウド
 
-- Azure WebApps
-- Azure Functions
+- AWS
+- Azure
 - Heroku
 
 ### テスト、CI/CD
@@ -85,7 +85,6 @@
 ## やったことはないが興味があるもの
 
 - k8s
-- AWS
 - GCP
 - IoT など Web 以外を扱うこと
 - 大規模なデータを扱うこと
@@ -94,8 +93,11 @@
 
 ## チーム活動履歴
 
-- [Developers Summit 2018 - 実況パワフルモブプログラミング - Rakuten Super English におけるモブプログラミングという働き方 -](https://event.shoeisha.jp/devsumi/20180215/session/1666/)
-- [モブプロディスカッション](https://www.eventbrite.com/e/35561178442#)
+- [製造業アジャイル勉強会(コミュニティ)](https://beyond-hardware-agile.connpass.com/)
+- [2020/5/12 リモート時代のモブプログラミング（モブワーク）](https://moblove.connpass.com/event/173894/)
+- [2019/11/19 Agile Japan 2019 デンソーサテライト](https://www.agilejapan.org/satellite.html)
+- [2018/2/15 Developers Summit 2018 - 実況パワフルモブプログラミング - Rakuten Super English におけるモブプログラミングという働き方 -](https://event.shoeisha.jp/devsumi/20180215/session/1666/)
+- [2017/7/11 モブプロディスカッション](https://www.eventbrite.com/e/35561178442#)
 - モブプログラミング現場体験会
 - モブプログラミングワークショップ・研修
 
@@ -110,9 +112,75 @@
 
 ## チーム経歴
 
-### 2016/07 〜 現在 : 楽天株式会社
+### 2019/7/1 〜 現在 : 株式会社デンソー
 
-#### 2017/05 〜 現在 : 新規 HR Tech&Edu Tech サービス立ち上げ【マネージャー】
+#### 2020/1/31 〜 現在 : 社内情報システムリプレイス
+
+- 概要
+
+  - サービス調査
+  - サービスの開発・運用
+  - ユーザーテスト
+
+- ToDo
+
+  - チームビルディング
+  - プロジェクトマネージメント
+  - プロダクトマネージメント
+  - アーキテクチャー設計
+  - アーキテクチャー構築
+  - 設計
+  - テスト
+  - サービス運用
+  - アジャイル開発
+  - モブプログラミング
+
+- 技術要素
+  - Ruby on Rails
+  - jQuery
+  - AWS Cloud Front
+  - AWS EC2
+  - AWS Elastic Beanstalk
+  - Amazon Auroｒa
+  - Amazon S3
+  - AWS Fargate
+  - Terraform
+
+
+#### 2019/7/1 〜 2020/1/31 : デザイン思考プロジェクト
+
+- 概要
+
+  - エスノグラフィ
+  - ユーザー調査
+  - プロダクトの企画
+  - プロダクトの開発・運用
+  - ユーザーテスト
+
+- ToDo
+
+  - チームビルディング
+  - プロジェクトマネージメント
+  - プロダクトマネージメント
+  - アーキテクチャー設計
+  - アーキテクチャー構築
+  - 設計
+  - テスト
+  - アジャイル開発
+  - モブプログラミング
+
+- 技術要素
+
+  - PHP
+  - Laravel
+  - Vue.js
+  - Azure WebApp
+  - SQL Database
+  - Azure Blob
+
+### 2016/07 〜 2019/6/30 : 楽天株式会社
+
+#### 2017/05 〜 2019/6/30 : 新規 HR Tech&Edu Tech サービス立ち上げ【マネージャー】
 
 - 概要
 
