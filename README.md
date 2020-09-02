@@ -304,5 +304,5 @@
 
 - いずれかの手段でお問い合わせ下さい
   - [Github Issues](https://github.com/silver-bullet-club/team-resume/issues/new/choose)
-  - [Contact Form (E-MAIL)](https://takaking22.com/contact/)
+  - EMAIL : <silver-bullet-club@googlegroups.com>
   - または各種 SNS からご連絡下さい
