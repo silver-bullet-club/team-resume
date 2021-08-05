@@ -10,6 +10,14 @@
 - [satoryu](https://satoryu.github.io/)
 - [TAKAKING22](https://takaking22.github.io/)
 
+## 守備範囲
+
+- 新規事業立ち上げ
+- プロダクト開発
+- サービス開発・運用
+- チームビルディング
+- エンジニアイベントづくり
+
 ## よく使う技術要素
 
 - PHP
