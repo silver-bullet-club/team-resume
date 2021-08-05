@@ -1,127 +1,75 @@
 # チーム職務経歴書
 
-## 基本情報
+## チーム紹介
+
+- [Silver Bullet Club](https://silver-bullet-club.github.io)
+
+## チームメンバー
 
 - [mya-zaki](https://mya-zaki.github.io/)
 - [satoryu](https://satoryu.github.io/)
 - [TAKAKING22](https://takaking22.github.io/)
 
-## リンク
-
-- [銀の弾丸Blog](https://note.com/takaking22/m/mdc7a6bb0e2b9)
-- [銀の弾丸TV（Youtube）](https://www.youtube.com/channel/UC2WNGm9_cF2xUlBLXAaJOOQ)
-- [銀の弾丸ラジオ（Podcast）](https://anchor.fm/silver-bullet-club)
-- [Twitter](https://twitter.com/silverbulletclb)
-
-## テクニカルスキル
-
-### 言語/フレームワーク
+## よく使う技術要素
 
 - PHP
-  - Laravel
-  - Symfony
-- Java
-  - Spring Boot
-- Ruby
-  - Ruby on Rails
-  - Sinatra
+- Laravel
+- Ruby on Rails
 - Node.js
-- Shell
-  - powershell
-  - bash
-
-### フロントエンド
-
 - JavaScript
-  - jQuery
-  - Vue.js
+- jQuery
+- Vue.js
+- Flutter
 - Bootstrap
 - Webpack
-
-### データベース
-
 - MySQL
-- PostgreSQL
 - SQL Server
 - Redis
 - MongoDB
 - Cosmos DB
-- RethinkDB
-- memcached
-
-### クラウド
-
 - AWS
 - Azure
-- Heroku
-
-### テスト、CI/CD
-
-- PHPUnit
-- JUnit
-- RSpec
-- Capistrano
-- Capybara
-- Chef
-- Ansible
-- Vagrant
 - Terraform
-
-### その他
-
-- Solr
-- ElasticSearch
 - Docker
-- JeCI/CD
-- Git
-- GitHub
 
-## 開発プロセス
+## よく使う開発プロセス
 
 - アジャイル開発
 - スクラム
 - モブプログラミング
-
-## プロダクトマネジメント
-
 - カスタマージャーニー
 - ユーザーストーリーマッピング
 - リーンキャンバス
 - ユーザーインタビュー
 
-## やったことはないが興味があるもの
-
-- k8s
-- GCP
-- IoT など Web 以外を扱うこと
-- 大規模なデータを扱うこと
-- エンジニア組織を構築すること
-- モブをスケールさせること
-
-## チーム活動履歴
-
-- [製造業アジャイル勉強会(コミュニティ)](https://beyond-hardware-agile.connpass.com/)
-- [2020/5/12 リモート時代のモブプログラミング（モブワーク）](https://moblove.connpass.com/event/173894/)
-- [2019/11/19 Agile Japan 2019 デンソーサテライト](https://www.agilejapan.org/satellite.html)
-- [2018/2/15 Developers Summit 2018 - 実況パワフルモブプログラミング - Rakuten Super English におけるモブプログラミングという働き方 -](https://event.shoeisha.jp/devsumi/20180215/session/1666/)
-- [2017/7/11 モブプロディスカッション](https://www.eventbrite.com/e/35561178442#)
-- モブプログラミング現場体験会
-- モブプログラミングワークショップ・研修
-
-## チーム受賞歴
-
-- Developers Summit 2018 ベストスピーカー賞 2 位
-  - [デブサミ 2018 アワードの受賞者が決定、ベストスピーカー総合 1 位は和田卓人氏](https://codezine.jp/article/detail/11209)
-
-## チーム執筆歴
-
-- [WEB+DB PRESS Vol.102](http://gihyo.jp/magazine/wdpress/archive/2018/vol102)
-
 ## チーム経歴
 
 ### 2019/7/1 〜 現在 : 株式会社デンソー
 
-#### 2020/1/31 〜 現在 : 社内情報システムリプレイス
+#### 2021/5/1 〜 現在 : 未来都市開発プロジェクト
+
+- 概要
+
+  - 開発体制づくり
+  - サービス企画、設計
+  - PoC
+  - 技術調査
+
+- ToDo
+
+  - チームビルディング
+  - プロジェクトマネージメント
+  - アーキテクチャー設計
+  - アーキテクチャー構築
+  - 設計
+  - アジャイル開発
+  - モブプログラミング
+
+- 技術要素
+  - Flutter
+  - Vue.js
+
+#### 2020/1/31 〜 2021/4/30 : 社内情報システムリプレイス
 
 - 概要
 
@@ -152,7 +100,6 @@
   - Amazon S3
   - AWS Fargate
   - Terraform
-
 
 #### 2019/7/1 〜 2020/1/31 : デザイン思考プロジェクト
 
@@ -299,10 +246,3 @@
   - splunk
   - Datadog
   - jenkins
-
-## 問い合わせ先
-
-- いずれかの手段でお問い合わせ下さい
-  - [Github Issues](https://github.com/silver-bullet-club/team-resume/issues/new/choose)
-  - EMAIL : <silver-bullet-club@googlegroups.com>
-  - または各種 SNS からご連絡下さい
