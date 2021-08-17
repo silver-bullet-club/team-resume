@@ -8,7 +8,7 @@
 
 - [mya-zaki](https://mya-zaki.github.io/)
 - [satoryu](https://satoryu.github.io/)
-- [TAKAKING22](https://takaking22.github.io/)
+- [TAKAKING22](https://agile-monster.com/profile/)
 
 ## 守備範囲
 
@@ -142,7 +142,7 @@
 
 ### 2016/07 〜 2019/6/30 : 楽天株式会社
 
-#### 2017/05 〜 2019/6/30 : 新規 HR Tech&Edu Tech サービス立ち上げ【マネージャー】
+#### 2017/05 〜 2019/6/30 : 新規 HR Tech&Edu Tech サービス立ち上げ
 
 - 概要
 
@@ -219,7 +219,7 @@
   - 運営
   - マネジメント
 
-#### 2016/7 〜 2017/05 : 新規 CtoC Sharing Echonomy サービス立ち上げ【ヴァイスマネージャー】
+#### 2016/7 〜 2017/05 : 新規 CtoC Sharing Echonomy サービス立ち上げ
 
 - 概要
 
